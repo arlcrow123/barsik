@@ -1,4 +1,4 @@
-<h1> Barsik Voice Assistant</h1>
+<h1> Barsik Voice Assistant</h1> [![visits](https://github-visit-counter.herokuapp.com/arlcrow123/barsik/visits.svg)](#)
 <h3>Description</h3>
-This voice assistant made on python
+Made on python
 <h3>Libraries</h3>
